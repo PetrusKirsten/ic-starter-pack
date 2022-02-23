@@ -2,7 +2,7 @@
 
 A ideia desse repositório é apresentar dicas de ferramentas, aplicativos e materiais para aqueles que estão começando a sua iniciação científica, TCC ou outra pesquisa. 
 
-_Obs.: Vou ir colocando aos poucos as atualizações_
+_Obs.: Vou ir colocando aos poucos as atualizações. E fiquem a vontade para contribuir com o repositório!_
 
 ### To do:
 
