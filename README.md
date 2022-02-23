@@ -8,7 +8,7 @@ _Obs.: Vou ir colocando aos poucos as atualizações_
 
 - [ ] CV Lattes
 - [ ] Evernote
-- [ ] Git e GitHub
+- [x] Git e GitHub
 - [ ] LaTeX - OverLeaf
 - [ ] Mendeley
 - [ ] ORCID
