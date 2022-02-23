@@ -19,6 +19,7 @@ _Obs.: Vou ir colocando aos poucos as atualizações. E fiquem a vontade para co
 # Resumo das ferramentas
 
 ## Currículo Lattes
+_Em construção..._
 ![](lattes/lattes-logo.png)
 
 O Currículo Lattes é uma das ferramentas oferecidas pela **Plataforma Lattes** que armazena uma grande base de dados curriculares e é uma padronização para as insituições brasileiras com fins acadêmicos. Por isso, é fundamental para quem quer ou já trabalha com pesquisa no Brasil. Sua operação é um pouco ultrapassada, mas aqui no repositório temos um arquivo tentando explicar ao máximo como usar essa ferramenta e deixar seu CV atualizado e organizado.
