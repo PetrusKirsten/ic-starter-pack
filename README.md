@@ -4,17 +4,17 @@ A ideia desse repositório é apresentar dicas de ferramentas, aplicativos e mat
 
 _Obs.: Vou ir colocando aos poucos as atualizações. E fiquem a vontade para contribuir com o repositório!_
 
-### To do:
+### A fazer (ordem de preferência):
 
-- [ ] CV Lattes
-- [ ] Evernote
 - [x] Git e GitHub
+- [ ] CV Lattes
 - [ ] LaTeX - OverLeaf
+- [ ] Trello
+- [ ] Todoist
 - [ ] Mendeley
+- [ ] Evernote
 - [ ] ORCID
 - [ ] Slack
-- [ ] Todoist
-- [ ] Trello
 
 # Resumo das ferramentas
 
